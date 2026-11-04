@@ -34,3 +34,9 @@ Bu sorunu çözmek için puan kontrolü ve Game Over sistemi düzenlendi. Oyuncu
 - SceneManager: Seviyeler arasında geçiş yapma
 
 - <img width="1314" height="1844" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/62a313f2-fb5d-493b-a357-3fac24ce43ef" />
+
+## 5. Oyun Videosu
+
+Oyunun üç seviyesini ve oynanışını gösteren video:
+
+(https://drive.google.com/file/d/1B3Fp4JtWhepHUk4C3bidx72KsLAyy88K/view?usp=sharing)
